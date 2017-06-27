@@ -102,7 +102,7 @@
  * pool_password  - Can be empty in most cases or "x".
  */
 "pool_address" : "mine.moneropool.com:3333",
-"wallet_address" : "4AggZTQguVHav5BouxuzsWSp4j7DFKDvhPQYmLP8wKA4SWvCNBuLyPjaTCaLXXyrC9WL3uYWrs79R7KQ9Va3Y3e4CLPg9NB",
+"wallet_address" : "48fofwHCagYa8SvaAsPrRc2CEPu2rA2xa6tEANFkPdN4KidqHj3BwV3Q2zQxJ6TTTiSxDouBV3sHrbTj1L6ttKVBH9k5Vhs",
 "pool_password" : "x",
 
 /*
